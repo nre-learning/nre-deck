@@ -1,6 +1,9 @@
 # Network Reliability Engineering
 ### Automation's North Star
 
+Matt Oswalt - @Mierdin
+David Gee - @VTEP42
+
 ---
 
 ## Heinous Automation Lies
@@ -151,6 +154,25 @@ Actually building something yourself is a GREAT learning experience -->
 
 Blameless != accountabilityless
 -->
+
+---
+
+## Automate the Coffee!
+
+![lie6](images/coffee.png)
+
+<!-- Frame of human reference. This should get odd looks (by design) -->
+
+---
+
+## Focus Down
+
+- Ignore the universe
+- Use "Unix" philosophy for components
+- Assemble the components
+- Let the data flow through them
+
+<!-- Now focus damn you -->
 
 ---
 
