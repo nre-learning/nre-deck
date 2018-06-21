@@ -167,10 +167,9 @@ Blameless != accountabilityless
 
 ## Focus Down
 
-- Ignore the universe
 - Use "Unix" philosophy for components
-- Assemble the components
-- Let the data flow through them
+- Composition over Wonder Product
+- Data flows like a stream
 
 <!-- Now focus damn you -->
 
