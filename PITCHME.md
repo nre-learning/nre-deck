@@ -1,7 +1,7 @@
 # Network Reliability Engineering
 ### Automation's North Star
 
-Matt Oswalt - @Mierdin
+Matt Oswalt - @Mierdin</br>
 David Gee - @VTEP42
 
 ---
