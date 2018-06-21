@@ -37,8 +37,6 @@
 
 ## Enter: Network Reliability Engineering
 
----?image=images/fire.png&size=auto 90%
-
 ---
 
 ## What's In a Name?
@@ -60,6 +58,8 @@ For NRE, the dynamic is the same, but simply with different roles. An NRE's cust
 It's all about applying software practices and tools into operations. We've been talking about doing this for a long time - NRE gives this effort a name.
 
  -->
+
+---?image=images/fire.png&size=auto 90%
 
 ---
 
@@ -109,6 +109,8 @@ Composition.
 
 Composition takes two forms. Sure, NREs need to be able to write some code, or playbooks, or whatever. But that's not enough - learning Python to write some scripts is just a higher abstraction than a lower level programming language like C. You still need to write it yourself, and having ONLY these kind of skills, you're gonna come down with a severe case of "not invented here" syndrome pretty quick. So you also need to have a repertoire of purpose-built tools that follow the unix philosophy of doing one thing and doing it well, and having open interfaces so you can stitch them together.
 
+Simple matter of programming
+
 This is a big reason AWS is so attractive for app developers - not just because cloud is fashionable, or because of cost, but because amazon offers a slew of services at varying abstraction levels, where devs don't have to re-invent the wheel, they can stitch services together to make their "app". Same reason kubernetes has taken off. Write your app in a single-node context, take advantage of k8s constructs for scale, deployment, etc.
 
 Actually building something yourself is a GREAT learning experience -->
@@ -121,13 +123,13 @@ Actually building something yourself is a GREAT learning experience -->
 
 ---
 
-![lie6](images/aws1.png)
-
-<!-- I've been a network engineer, and even I don't care about this. Can you imagine how little non-networkers care about this info? Yet for most network engineers this is how we still mostly talk about the health of the network. -->
+![lie6](images/aws2.png)
 
 ---
 
-![lie6](images/aws2.png)
+![lie6](images/aws1.png)
+
+<!-- I've been a network engineer, and even I don't care about this. Can you imagine how little non-networkers care about this info? Yet for most network engineers this is how we still mostly talk about the health of the network. -->
 
 ---
 
@@ -145,7 +147,10 @@ Actually building something yourself is a GREAT learning experience -->
 
 > Failure is okay. Repeated failure is not.
 
-<!-- Use an incident as a learning experience. The goal is to be able to modify your systems so that the issue doesn't happen again. -->
+<!-- Use an incident as a learning experience. The goal is to be able to modify your systems so that the issue doesn't happen again.
+
+Blameless != accountabilityless
+-->
 
 ---
 
@@ -208,7 +213,9 @@ Actually building something yourself is a GREAT learning experience -->
 
 ### Event-Driven Infrastructure
 
-- Menial triaging tasks. Prepping for incident management
+- Triage - Incident Prep
+- Auto-remediation
+- ChatOps
 
 <!--
 
@@ -232,3 +239,4 @@ SRE Skills:
 - Operational awareness - troubleshooting, debugging, risk understanding
 - Networking
  -->
+
