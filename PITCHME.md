@@ -42,7 +42,7 @@ David Gee - @VTEP42
 
 <!-- What's in a name? (below) -->
 
----?image=images/fire.png&size=auto 90%
+---?image=images/devopssre.png&size=auto 90%
 
 <!-- You might be wondering - what is NRE all about? Why does networking need its own thing?
 
