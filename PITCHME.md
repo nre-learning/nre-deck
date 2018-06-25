@@ -37,11 +37,9 @@
 
 ## Enter: Network Reliability Engineering
 
----
+<!-- What's in a name? (below) -->
 
-### What's In a Name?
-
-![lie6](images/devopssre.png)
+---?image=images/fire.png&size=auto 90%
 
 <!-- You might be wondering - what is NRE all about? Why does networking need its own thing?
 
